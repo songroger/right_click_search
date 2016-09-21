@@ -1,0 +1,15 @@
+{
+   "background": {
+      "scripts": [ "core.js" ]
+   },
+   "description": "Quickly search for highlighted text on Google via right-click",
+   "icons": {
+      "16": "g-16.png",
+      "48": "g-48.png"
+   },
+   "manifest_version": 2,
+   "name": "Right-Click Search Google",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "tabs", "http://*/*", "https://*/*" ],
+   "version": "0.0.1"
+}
